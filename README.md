@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cyberpunkme
+- 👋 Hi, I’m cyberpunkme
 - 👀 I’m interested in tech,movie,music
-- 🌱 I’m currently learning tg bots
-- 💞️ I’m looking to collaborate on nothing 
+- 🌱 I’m currently learning to edit the repo of someone's tg bots
+- 💞️ I’m looking to collaborate with nobody
 - 📫 How to reach me........
 
 <!---
